@@ -1,0 +1,13 @@
+{
+	"authors": [
+		"Daniel Kozak"
+	],
+	"copyright": "GoPay s.r.o.",
+	"description": "GoPay's Dlang SDK for Payments REST API",
+	"license": "MIT",
+	"name": "gopay-dlang-api",
+	"targetType" : "library",
+  	"dependencies" : {
+		"requests" : "~>1.0.9"
+  	}
+}

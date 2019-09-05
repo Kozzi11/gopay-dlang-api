@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/gopay-dlang-api
+gopay-dlang-api.so
+gopay-dlang-api.dylib
+gopay-dlang-api.dll
+gopay-dlang-api.a
+gopay-dlang-api.lib
+gopay-dlang-api-test-*
+*.exe
+*.o
+*.obj
+*.lst
