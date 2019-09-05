@@ -8,6 +8,7 @@
 	"name": "gopay-dlang-api",
 	"targetType" : "library",
   	"dependencies" : {
-		"requests" : "~>1.0.9"
+		"requests" : "~>1.0.9",
+		"vibe-d:data" : "0.8.5"
   	}
 }
